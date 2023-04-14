@@ -1,5 +1,5 @@
 ######################################################################
-# The R codes for reading the data are given in \cite{saine}.
+# The R codes for reading the data are given in https://arxiv.org/abs/2012.08488v1
 # 
 ######################################################################
 
